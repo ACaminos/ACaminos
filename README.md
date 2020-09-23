@@ -1,6 +1,5 @@
 ### ¡Buenas! :) ¡Bienvenidos! 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos&show_icons=true&theme=dark)
 
 
 <!--
