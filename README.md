@@ -1,4 +1,4 @@
-### Hi there i'm Ariel ! 👋
+### ¡Buenas! :) ¡Bienvenidos! 👋
 
 <!--
 **ACaminos/ACaminos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
