@@ -1,5 +1,8 @@
 ### ¡Buenas! :) ¡Bienvenidos! 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos&show_icons=true&theme=dark&title_color=00CC00&text_color=00CC00)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos&show_icons=true&theme=chartreuse-dark&title_color=159E4A)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACaminos&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=159E4A)](https://github.com/ACaminos/github-readme-stats)
+
 
 
 <!--
