@@ -1,5 +1,5 @@
 ### ¡Buenas! :) ¡Bienvenidos! 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos&show_icons=true&theme=dark&title_color=00CC00&text_color=00CC00)
 
 
 <!--
