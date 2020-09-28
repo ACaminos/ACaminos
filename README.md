@@ -2,6 +2,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos&show_icons=true&theme=chartreuse-dark&title_color=159E4A&hide=prs)-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACaminos&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=159E4A&line_height=50)](https://github.com/ACaminos/github-readme-stats)
 
 
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+
 
 <!--
 **ACaminos/ACaminos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
