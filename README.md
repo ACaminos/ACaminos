@@ -4,7 +4,7 @@
 ## ![Visits Badge](https://badges.pufler.dev/visits/ACaminos/ACaminos) -->
 
 <p align="center">
-<a href="https://github.com/ACaminos/ACaminos"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&duration=4000&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;My+name+is+Ariel;And+I'm+Front+End+Developer;Follow+me+!"></a>
+<a href="https://github.com/ACaminos/ACaminos"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&duration=4000&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile...!;My+name+is+Ariel;And+I'm+Front+End+Developer;Follow+me+!"></a>
 </p>
 
 ## 💼 Skills
