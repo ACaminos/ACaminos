@@ -1,8 +1,8 @@
 ###
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ACaminos&show_icons=true&theme=chartreuse-dark&title_color=159E4A&hide=prs)-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACaminos&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=159E4A&line_height=50)](https://github.com/ACaminos/github-readme-stats)
 
-![Visits Badge](https://badges.pufler.dev/visits/ACaminos/ACaminos)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/acaminos/)
+## ![Visits Badge](https://badges.pufler.dev/visits/ACaminos/ACaminos)
+
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -31,3 +31,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
+
+## :mailbox: Contact
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/acaminos/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=Gmail&logoColor=white&color=0D76A8)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Consulta&to=caminosariel@gmail.com)
