@@ -7,6 +7,13 @@
 <a href="https://github.com/ACaminos/ACaminos"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&duration=4000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile...!;I'm+Front+End+Developer;Follow+me!"></a>
 </p>
 
+<p align="center">
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
+</p>
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
