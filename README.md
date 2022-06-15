@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=es"></a>
 </p>
 
 <!--
