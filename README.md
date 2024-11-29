@@ -3,55 +3,33 @@
 
 ## ![Visits Badge](https://badges.pufler.dev/visits/ACaminos/ACaminos) -->
 
-<p align="center">
-<a href="https://github.com/ACaminos/ACaminos"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&duration=4000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile...!;I'm+Front+End+Developer;Follow+me!"></a>
+# Hi everyone, i'm Ariel Caminos
+<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)" width="45%" />
+<p width="45%">
+Hi, nice to meet you. Let me introduce my profile in a few lines.
+  <ul>
+    <li>👨‍🔧 I'm an <b>Front End Developer</b></li>
+    <li>📍 Located in <b>Buenos Aires</b></li>
+    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🌱 I'm currently learning <b>ReactJs</b> and <b>NextJs</b></li>
+    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
+    <li>📮 You can contact me directly here : <b>caminosariel@gmail.com</b>
+  </ul>
+Passionate Front-End Developer<br>
+
+I'm a dedicated front-end developer with a keen eye for detail and a love for crafting elegant user interfaces. I'm proficient in  HTML, CSS, JavaScript, React, etc <br>
+
+I'm constantly exploring the latest trends and technologies to stay ahead of the curve. I'm always open to learning new things and collaborating on exciting projects.
 </p>
 
 <p align="center">
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
 </p>
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+## 🤝 Connect with me
 
-## 💼 Skills
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=Mysql&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
- 
-<br>
-
-![](https://img.shields.io/badge/Tools-Laragon-informational?style=flat&logo=Laragon&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Xampp-informational?style=flat&logo=Xampp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NVM-informational?style=flat&logo=nvm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
-
-## :mailbox: Contact
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/acaminos/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=Gmail&logoColor=white&color=0D76A8)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Consulta&to=caminosariel@gmail.com)
+<p align="center">
+	<a href="mailto:caminosariel@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/acaminos/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://www.instagram.com/a_caminos/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
