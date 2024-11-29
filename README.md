@@ -10,21 +10,35 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>Front End Developer</b></li>
     <li>📍 Located in <b>Buenos Aires</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🏢 I'm working for <b>Radio y television Argentina</b> & <b>TecnoCode</b></li>
     <li>🌱 I'm currently learning <b>ReactJs</b> and <b>NextJs</b></li>
-    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
     <li>📮 You can contact me directly here : <b>caminosariel@gmail.com</b>
   </ul>
+  <br>
 Passionate Front-End Developer<br>
 
 I'm a dedicated front-end developer with a keen eye for detail and a love for crafting elegant user interfaces. I'm proficient in  HTML, CSS, JavaScript, React, etc <br>
 
 I'm constantly exploring the latest trends and technologies to stay ahead of the curve. I'm always open to learning new things and collaborating on exciting projects.
 </p>
+<br>
 
 <p align="center">
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,git,gitlab,bash,github,docker,react,redux,tailwind,figma,vscode,postman,&perline=8" />
+  </a>
+</p>
+<br>
 
 ## 🤝 Connect with me
 
