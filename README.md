@@ -23,8 +23,8 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
 </p>
 <hr>
 <div align="center">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acaminos&theme=rose_pine">
+<img height="138em" src="https://github-readme-streak-stats.herokuapp.com?user=Acaminos&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acaminos&theme=rose_pine">
 </div>
 <hr>
 
