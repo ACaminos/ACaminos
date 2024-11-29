@@ -4,7 +4,7 @@
 ## ![Visits Badge](https://badges.pufler.dev/visits/ACaminos/ACaminos) -->
 
 # Hi everyone, i'm Ariel Caminos
-<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)" width="45%" />
+<img align="right" alt="GIF" src="[media.](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
