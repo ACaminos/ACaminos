@@ -13,7 +13,7 @@
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>👨‍🔧 I'm an <b>Front End Developer</b></li>
+    <li>👨‍🔧 I'm a <b>Front-End Developer</b></li>
     <li>📍 Located in <b>Buenos Aires</b></li>
     <li>🏢 I'm working for <b>Radio y Televisión Argentina</b> & <b>TecnoCode</b></li>
     <li>🌱 I'm currently learning <b>ReactJs</b> and <b>NextJs</b></li>
