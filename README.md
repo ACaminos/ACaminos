@@ -11,7 +11,9 @@
 <hr>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" style="width:53%" />
 <p width="45%">
-Hi, nice to meet you. Let me introduce my profile in a few lines.
+I'm a passionate developer who loves building web applications and exploring new technologies. My main focus is on front-end development with React. I’m always looking to improve my skills and share useful resources with the developer community.
+Always learning, always sharing, and always coding.
+Here’s a quick list that sums me up
   <ul>
     <li>👨‍🔧 I'm a <b>Front-End Developer</b></li>
     <li>📍 Located in <b>Buenos Aires</b></li>
