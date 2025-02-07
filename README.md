@@ -9,7 +9,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi!+everyone+,+i'm+Ariel+Caminos.)](https://git.io/typing-svg)
 </div>
 <hr>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" style="width:53%" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" style="width:78%" />
 <p width="45%">
 I'm a passionate developer who loves building web applications and exploring new technologies. My main focus is on front-end development with React. I’m always looking to improve my skills and share useful resources with the developer community.
 Always learning, always sharing, and always coding.
