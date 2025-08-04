@@ -24,10 +24,6 @@ Always learning, always sharing, and always coding.
   </ul>
 </p>
 <hr>
-<div align="center">
-<a href="https://github.com/ACaminos"><img src="https://github-readme-streak-stats-eight.vercel.app?user=ACaminos&theme=dark&hide_border=true&border_radius=20" alt="GitHub Streak" />
-</div>
-<hr>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -37,7 +33,7 @@ Always learning, always sharing, and always coding.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,git,gitlab,bash,github,docker,react,redux,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,git,gitlab,bash,github,docker,react,figma,vscode,postman" />
   </a>
 </p>
 <br>
