@@ -36,12 +36,3 @@ Always learning, always sharing, and always coding.
     <img src="https://skillicons.dev/icons?i=html,js,ts,css,bootstrap,git,gitlab,bash,github,docker,react,figma,vscode,postman" />
   </a>
 </p>
-<br>
-<hr>
-
-<div align="center"> 
-  <h3><b>Visitor count</b></h3>
-</div>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
-</p>
