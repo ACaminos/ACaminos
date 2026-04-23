@@ -18,7 +18,6 @@ Always learning, always sharing, and always coding.
     <li>👨‍🔧 I'm a <b>Front-End Developer</b></li>
     <li>📍 Located in <b>Buenos Aires</b></li>
     <li>🏢 I'm working for <b>Radio y Televisión Argentina</b> & <b>TecnoCode</b></li>
-    <li>🌱 I'm currently learning <b>NextJs</b></li>
     <li>📮 You can contact me directly here : <a href="mailto:caminosariel@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/acaminos/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </ul>
